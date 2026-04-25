@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "我的第一个插件",
+  "version": "1.0",
+  "description": "这是我从零开始写的第一个Chrome插件！",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": null
+  },
+  "permissions": ["storage"]
+}
